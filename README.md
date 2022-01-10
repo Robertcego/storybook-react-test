@@ -7,3 +7,11 @@
 - [x] Stack
   - Component to use as a main container
   - Provides flexbox layout
+
+### to start React
+
+`npm run start`
+
+### to start Storybook
+
+`npm run storybook`
